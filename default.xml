@@ -490,7 +490,7 @@
   <project path="packages/apps/CellBroadcastReceiver" name="MoKee/android_packages_apps_CellBroadcastReceiver" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/CertInstaller" name="MoKee/android_packages_apps_CertInstaller" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/Contacts" name="MoKee/android_packages_apps_Contacts" groups="pdk-fs" />
-  <project path="packages/apps/DeskClock" name="MoKee/android_packages_apps_DeskClock" groups="pdk-fs" />
+  <!--<project path="packages/apps/DeskClock" name="MoKee/android_packages_apps_DeskClock" groups="pdk-fs" />-->
   <project path="packages/apps/Dialer" name="MoKee/android_packages_apps_Dialer" groups="pdk-fs" />
   <!--<project path="packages/apps/DocumentsUI" name="MoKee/android_packages_apps_DocumentsUI" groups="pdk-cw-fs,pdk-fs" />-->
   <project path="packages/apps/Email" name="MoKee/android_packages_apps_Email" groups="pdk-fs" />
@@ -514,16 +514,16 @@
   <project path="packages/apps/SettingsIntelligence" name="MoKee/android_packages_apps_SettingsIntelligence" groups="pdk-fs" />
   <project path="packages/apps/Stk" name="MoKee/android_packages_apps_Stk" groups="apps_stk,pdk-fs" />
   <project path="packages/apps/StorageManager" name="MoKee/android_packages_apps_StorageManager" groups="pdk-fs" />
-  <project path="packages/apps/Tag" name="MoKee/android_packages_apps_Tag" groups="pdk-fs" />
+  <!--<project path="packages/apps/Tag" name="MoKee/android_packages_apps_Tag" groups="pdk-fs" />-->
   <project path="packages/apps/Terminal" name="MoKee/android_packages_apps_Terminal" groups="pdk-fs" />
   <project path="packages/apps/UnifiedEmail" name="MoKee/android_packages_apps_UnifiedEmail" groups="pdk-fs" />
   <!--<project path="packages/apps/ThemePicker" name="MoKee/android_packages_apps_ThemePicker" groups="pdk-fs" />
   <project path="packages/apps/Test/connectivity" name="platform/packages/apps/Test/connectivity" groups="pdk" remote="aosp" />-->
-  <!--<project path="packages/apps/Traceur" name="MoKee/android_packages_apps_Traceur" groups="pdk-fs" />-->
+  <!--<project path="packages/apps/Traceur" name="MoKee/android_packages_apps_Traceur" groups="pdk-fs" />
   <project path="packages/apps/TvSettings" name="MoKee/android_packages_apps_TvSettings" groups="pdk-fs" />
   <project path="packages/apps/TV" name="platform/packages/apps/TV" groups="pdk" remote="aosp" />
   <project path="packages/apps/UniversalMediaPlayer" name="platform/packages/apps/UniversalMediaPlayer" remote="aosp" />
-  <project path="packages/apps/WallpaperPicker2" name="MoKee/android_packages_apps_WallpaperPicker2" groups="pdk-fs" />
+  <project path="packages/apps/WallpaperPicker2" name="MoKee/android_packages_apps_WallpaperPicker2" groups="pdk-fs" />-->
   <project path="packages/inputmethods/LatinIME" name="MoKee/android_packages_inputmethods_LatinIME" groups="pdk-fs" />
   <project path="packages/inputmethods/LeanbackIME" name="platform/packages/inputmethods/LeanbackIME" groups="pdk-fs" remote="aosp" revision="c15e8e709714310c8a31d83522b66493b10e22c9" />
   <project path="packages/modules/CaptivePortalLogin" name="MoKee/android_packages_modules_CaptivePortalLogin" groups="pdk-cw-fs,pdk-fs" />
