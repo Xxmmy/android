@@ -5,10 +5,10 @@
            fetch="git://mirrors.ustc.edu.cn/aosp"
            revision="refs/tags/android-10.0.0_r41" />
 
-  <remote  name="github" fetch="https://github.com"/>
+  <remote  name="mokee" fetch="https://github.com"/>
 
   <default revision="refs/heads/mkq-mr1"
-           remote="github"
+           remote="mokee"
            sync-c="true"
            sync-j="4" />
 
