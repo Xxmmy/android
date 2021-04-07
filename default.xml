@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="mokee"
-           fetch=".."
-           review="https://mokeedev.review" />
-
-  <remote  name="private"
-           fetch="ssh://git@github.com" />
-
   <remote  name="aosp"
            fetch="git://mirrors.ustc.edu.cn/aosp"
-           review="android-review.googlesource.com"
            revision="refs/tags/android-10.0.0_r41" />
+
+  <remote  name="mokee" fetch="https://github.com/MoKee" revision="refs/heads/mkq-mr1" />
 
   <default revision="refs/heads/mkq-mr1"
            remote="mokee"
