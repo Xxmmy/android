@@ -487,7 +487,7 @@
   <project path="packages/apps/Car/libs" name="platform/packages/apps/Car/libs" groups="pdk-fs" remote="aosp" />
   <!--<project path="packages/apps/Car/tests" name="platform/packages/apps/Car/tests" groups="pdk-fs" remote="aosp" />-->
   <project path="packages/apps/CarrierConfig" name="MoKee/android_packages_apps_CarrierConfig" groups="pdk-cw-fs,pdk-fs" />
-  <project path="packages/apps/CellBroadcastReceiver" name="MoKee/android_packages_apps_CellBroadcastReceiver" groups="pdk-cw-fs,pdk-fs" />
+  <!--<project path="packages/apps/CellBroadcastReceiver" name="MoKee/android_packages_apps_CellBroadcastReceiver" groups="pdk-cw-fs,pdk-fs" />-->
   <project path="packages/apps/CertInstaller" name="MoKee/android_packages_apps_CertInstaller" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/Contacts" name="MoKee/android_packages_apps_Contacts" groups="pdk-fs" />
   <!--<project path="packages/apps/DeskClock" name="MoKee/android_packages_apps_DeskClock" groups="pdk-fs" />-->
@@ -531,7 +531,7 @@
   <project path="packages/modules/ModuleMetadata" name="platform/packages/modules/ModuleMetadata" groups="pdk" remote="aosp" />
   <project path="packages/modules/NetworkPermissionConfig" name="platform/packages/modules/NetworkPermissionConfig" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="packages/modules/NetworkStack" name="MoKee/android_packages_modules_NetworkStack" groups="pdk-cw-fs,pdk-fs" />
-  <project path="packages/modules/TestModule" name="platform/packages/modules/TestModule" remote="aosp" />
+  <!--<project path="packages/modules/TestModule" name="platform/packages/modules/TestModule" remote="aosp" />-->
   <!--<project path="packages/providers/BlockedNumberProvider" name="MoKee/android_packages_providers_BlockedNumberProvider" groups="pdk-fs" />-->
   <!--<project path="packages/providers/BookmarkProvider" name="MoKee/android_packages_providers_BookmarkProvider" groups="pdk-fs" />-->
   <!--<project path="packages/providers/CalendarProvider" name="MoKee/android_packages_providers_CalendarProvider" groups="pdk-cw-fs,pdk-fs" />-->
@@ -543,8 +543,8 @@
   <project path="packages/providers/TelephonyProvider" name="MoKee/android_packages_providers_TelephonyProvider" groups="pdk-cw-fs,pdk-fs" />
   <!--<project path="packages/providers/TvProvider" name="MoKee/android_packages_providers_TvProvider" groups="pdk-fs" />-->
   <project path="packages/providers/UserDictionaryProvider" name="MoKee/android_packages_providers_UserDictionaryProvider" groups="pdk-cw-fs,pdk-fs" />
-  <project path="packages/screensavers/Basic" name="MoKee/android_packages_screensavers_Basic" groups="pdk-fs" />
-  <project path="packages/screensavers/PhotoTable" name="MoKee/android_packages_screensavers_PhotoTable" groups="pdk-fs" />
+  <!--<project path="packages/screensavers/Basic" name="MoKee/android_packages_screensavers_Basic" groups="pdk-fs" />
+  <project path="packages/screensavers/PhotoTable" name="MoKee/android_packages_screensavers_PhotoTable" groups="pdk-fs" />-->
   <project path="packages/services/AlternativeNetworkAccess" name="platform/packages/services/AlternativeNetworkAccess" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <!--<project path="packages/services/BuiltInPrintService" name="MoKee/android_packages_services_BuiltInPrintService" groups="pdk-cw-fs,pdk-fs" />-->
   <project path="packages/services/Car" name="platform/packages/services/Car" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
