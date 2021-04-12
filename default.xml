@@ -488,7 +488,7 @@
   <!--<project path="packages/apps/Car/tests" name="platform/packages/apps/Car/tests" groups="pdk-fs" remote="aosp" />-->
   <project path="packages/apps/CarrierConfig" name="MoKee/android_packages_apps_CarrierConfig" groups="pdk-cw-fs,pdk-fs" />
   <!--<project path="packages/apps/CellBroadcastReceiver" name="MoKee/android_packages_apps_CellBroadcastReceiver" groups="pdk-cw-fs,pdk-fs" />-->
-  <project path="packages/apps/CertInstaller" name="MoKee/android_packages_apps_CertInstaller" groups="pdk-cw-fs,pdk-fs" />
+  <!--<project path="packages/apps/CertInstaller" name="MoKee/android_packages_apps_CertInstaller" groups="pdk-cw-fs,pdk-fs" />-->
   <project path="packages/apps/Contacts" name="MoKee/android_packages_apps_Contacts" groups="pdk-fs" />
   <!--<project path="packages/apps/DeskClock" name="MoKee/android_packages_apps_DeskClock" groups="pdk-fs" />-->
   <project path="packages/apps/Dialer" name="MoKee/android_packages_apps_Dialer" groups="pdk-fs" />
@@ -505,8 +505,8 @@
   <project path="packages/apps/PermissionController" name="MoKee/android_packages_apps_PackageInstaller" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/PhoneCommon" name="MoKee/android_packages_apps_PhoneCommon" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" groups="pdk-fs" remote="aosp" />
-  <project path="packages/apps/SafetyRegulatoryInfo" name="MoKee/android_packages_apps_SafetyRegulatoryInfo" groups="pdk-fs" />
-  <project path="packages/apps/SampleLocationAttribution" name="platform/packages/apps/SampleLocationAttribution" groups="pdk-fs" remote="aosp" />
+  <!--<project path="packages/apps/SafetyRegulatoryInfo" name="MoKee/android_packages_apps_SafetyRegulatoryInfo" groups="pdk-fs" />
+  <project path="packages/apps/SampleLocationAttribution" name="platform/packages/apps/SampleLocationAttribution" groups="pdk-fs" remote="aosp" />-->
   <!--<project path="packages/apps/SecureElement" name="MoKee/android_packages_apps_SecureElement" groups="apps_se,pdk-fs" />
   <project path="packages/apps/Settings" name="platform/packages/apps/Settings" groups="pdk-fs" remote="aosp" />
   <project path="packages/apps/SettingsIntelligence" name="platform/packages/apps/SettingsIntelligence" groups="pdk-fs" remote="aosp" />-->
